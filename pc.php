@@ -2,7 +2,7 @@
 // --- Configuration ---
 const BOT_TOKEN     = '8570709901:AAErHpM45GIds4q_SNyZr2Z_miCWxWIeC2k';
 const ADMIN_CHAT_ID = '421311524';
-const WEBHOOK_URL   = '';
+const WEBHOOK_URL   = 'voucher-test-production.up.railway.app';
 const CHANNEL_IDS   = ['@testingroshan'];
 
 function httpCallAdvanced($url, $data = null, $headers = [], $method = "GET", $returnHeaders = false) {
